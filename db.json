@@ -1,0 +1,120 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Do",
+      "username": "johndoe",
+      "email": "johndoe@example.com",
+      "phone": "+1-555-12345",
+      "city": "New York",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "username": "janesmith",
+      "email": "janesmith@example.com",
+      "phone": "+1-555-5678",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "USA"
+    },
+    {
+      "id": "3",
+      "name": "Samuel Brown",
+      "username": "sambrown",
+      "email": "sambrown@example.com",
+      "phone": "+1-555-9101",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "USA"
+    },
+    {
+      "id": "4",
+      "name": "Emily Davis",
+      "username": "emilydavis",
+      "email": "emilydavis@example.com",
+      "phone": "+1-555-1122",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "USA"
+    },
+    {
+      "id": "5",
+      "name": "Michael Wilson",
+      "username": "michaelwilson",
+      "email": "michaelwilson@example.com",
+      "phone": "+1-555-3344",
+      "city": "Phoenix",
+      "state": "Arizona",
+      "country": "USA"
+    },
+    {
+      "id": "6",
+      "name": "Sarah Johnson",
+      "username": "sarahjohnson",
+      "email": "sarahjohnson@example.com",
+      "phone": "+1-555-5566",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "country": "USA"
+    },
+    {
+      "id": "7",
+      "name": "William Garcia",
+      "username": "williamgarcia",
+      "email": "williamgarcia@example.com",
+      "phone": "+1-555-7788",
+      "city": "San Antonio",
+      "state": "Texas",
+      "country": "USA"
+    },
+    {
+      "id": "8",
+      "name": "Sophia Martinez",
+      "username": "sophiamartinez",
+      "email": "sophiamartinez@example.com",
+      "phone": "+1-555-9900",
+      "city": "San Diego",
+      "state": "California",
+      "country": "USA"
+    },
+    {
+      "id": "9",
+      "name": "James Anderson",
+      "username": "jamesanderson",
+      "email": "jamesanderson@example.com",
+      "phone": "+1-555-2233",
+      "city": "Dallas",
+      "state": "Texas",
+      "country": "USA"
+    },
+    {
+      "id": "10",
+      "name": "Olivia Clark",
+      "username": "oliviaclark",
+      "email": "oliviaclark@example.com",
+      "phone": "+1-555-4455",
+      "city": "San Jose",
+      "state": "California",
+      "country": "USA"
+    },
+    {
+      "id": "c003",
+      "name": "sathish",
+      "username": "ben",
+      "email": "ben10@gmail.com",
+      "phone": "78728643254",
+      "city": ""
+    },
+    {
+      "id": "1b2a",
+      "name": "jackie chan",
+      "username": "jackie",
+      "email": "jackie@gmail.com",
+      "phone": "+1-555-12345",
+      "city": "New York"
+    }
+  ]
+}
